@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  test: 'Environment in root application',
+  test: 'Environment in app 1',
 };
 
 /*
